@@ -1,2 +1,2 @@
 Udemy - 2020 Web development bootcamp
-Section 2: Intermediate HTML
+Section 3: Intro to CSS
