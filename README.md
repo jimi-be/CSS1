@@ -1,2 +1,2 @@
-# CSS1
-Complete 2020 web dev bootcamp - Intro to CSS
+Udemy - 2020 Web development bootcamp
+Section 2: Intermediate HTML
